@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invisiwalls.Plugins", "Invisiwalls.Plugins.csproj", "{EACB3622-DFD3-4E31-3D5A-65179F0E1E6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invisiwalls", "Invisiwalls.csproj", "{9B504DF7-CF0A-D6F5-DDC1-5993F4D89D7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invisiwalls.Editor.Plugins", "Invisiwalls.Editor.Plugins.csproj", "{E6537922-B139-3961-A6CB-4A6FE75100D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EACB3622-DFD3-4E31-3D5A-65179F0E1E6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EACB3622-DFD3-4E31-3D5A-65179F0E1E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EACB3622-DFD3-4E31-3D5A-65179F0E1E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EACB3622-DFD3-4E31-3D5A-65179F0E1E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B504DF7-CF0A-D6F5-DDC1-5993F4D89D7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B504DF7-CF0A-D6F5-DDC1-5993F4D89D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B504DF7-CF0A-D6F5-DDC1-5993F4D89D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B504DF7-CF0A-D6F5-DDC1-5993F4D89D7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6537922-B139-3961-A6CB-4A6FE75100D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6537922-B139-3961-A6CB-4A6FE75100D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6537922-B139-3961-A6CB-4A6FE75100D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6537922-B139-3961-A6CB-4A6FE75100D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
